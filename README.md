@@ -41,7 +41,7 @@ sms-frontend/
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/sms-frontend.git
+   git clone 
    cd sms-frontend
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ sms-frontend/
 
 3. Configure environment variables:
 
-   Create a .env file in the root of your project. Add the following variables (adjust values as necessary):
+   Create a .env file in the root of your project. 
    REACT_APP_API_BASE_URL=http://localhost:8000
    REACT_APP_TELEGRAM_BOT_TOKEN
 
